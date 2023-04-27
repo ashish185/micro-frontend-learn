@@ -1,0 +1,31 @@
+{
+  "name": "micro-frontend-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish185/micro-frontend-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish185/micro-frontend-learn/issues"
+  },
+  "homepage": "https://github.com/ashish185/micro-frontend-learn#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "html-webpack-plugin": "^5.5.1",
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.2",
+    "webpack-dev-server": "^4.13.3"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
